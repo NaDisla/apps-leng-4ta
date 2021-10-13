@@ -1,0 +1,18 @@
+[submodule "AppConsultaAPI"]
+	path = AppConsultaAPI
+	url = https://github.com/NaDisla/AppConsultaAPI
+[submodule "Basic-Calculator"]
+	path = Basic-Calculator
+	url = https://github.com/NaDisla/Basic-Calculator.git
+[submodule "BookFinderApp"]
+	path = BookFinderApp
+	url = https://github.com/NaDisla/BookFinderApp.git
+[submodule "FoodApp"]
+	path = FoodApp
+	url = https://github.com/NaDisla/FoodApp.git
+[submodule "MasterDetailApp"]
+	path = MasterDetailApp
+	url = https://github.com/NaDisla/MasterDetailApp.git
+[submodule "ShippersApp"]
+	path = ShippersApp
+	url = https://github.com/NaDisla/ShippersApp.git
