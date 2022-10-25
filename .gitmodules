@@ -16,3 +16,6 @@
 [submodule "ShippersApp"]
 	path = ShippersApp
 	url = https://github.com/NaDisla/ShippersApp.git
+[submodule "api-library-app"]
+	path = api-library-app
+	url = https://github.com/NaDisla/api-library-app
